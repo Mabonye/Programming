@@ -1,0 +1,62 @@
+1
+You approach the door of the house.
+You are about to knock when the door opens and out steps a gorgon.
+Eep! This is the gorgon's house!
+The gorgon attacks you!
+
+
+
+1
+You approach the door of the house.
+You are about to knock when the door opens and out steps a pirate.
+Eep! This is the pirate's house!
+The pirate attacks you!
+
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+
+
+
+1
+You approach the door of the house.
+You are about to knock when the door opens and out steps a wicked fairie.
+Eep! This is the wicked fairie's house!
+The wicked fairie attacks you!
+
+
+
+1
+You approach the door of the house.
+You are about to knock when the door opens and out steps a troll.
+Eep! This is the troll's house!
+The troll attacks you!
+
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+
+
+
+1
+You approach the door of the house.
+You are about to knock when the door opens and out steps a dragon.
+Eep! This is the dragon's house!
+The dragon attacks you!
+
+You feel a bit under-prepared for this, what with only having a tiny dagger.
+
+
+
+
+
+
+2
+You peer cautiously into the cave.
+It turns out to be only a very small cave.
+Your eye catches a glint of metal behind a rock.
+You have found the magical Sword of Ogoroth!
+You discard your silly old dagger and take the sword with you.
+You walk back out to the field.
+
+
+2
+You peer cautiously into the cave.
+You've been here before, and gotten all the good stuff. It's just an empty cave now.
+You walk back out to the field.

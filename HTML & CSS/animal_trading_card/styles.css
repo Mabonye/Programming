@@ -1,0 +1,46 @@
+/* CSS for the image */
+img{
+    width: 300px;
+    padding: 10px;
+}
+
+/*CSS for the whole card*/
+.card{
+    width: 320px;
+    border: 1px solid rgb(220,220,220); 
+    font-family: serif;
+    box-shadow: 5px 5px rgb(236,236,236); 
+    /*positioning the box at the center*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#heading{
+    padding-left: 10px; 
+}
+
+.fact{
+    font-style: italic;
+}
+
+.items{
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+p{
+    padding: 0 10px;
+}
+
+.information{
+    border: 1px solid rgb(220,220,220);
+    width: 300px;
+    margin: 10px;
+    box-shadow: none;
+}
+
